@@ -1,0 +1,80 @@
+
+Skip to content
+Navigation Menu
+
+    prateekrajgautam
+
+    devopslab1
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+Owner avatar
+devopslab1
+Public
+
+prateekrajgautam/devopslab1
+t
+Folders and files
+Name	Last commit message
+	Last commit date
+Latest commit
+prateekrajgautam
+prateekrajgautam
+addint test file
+0fbba27
+ · 
+Jan 7, 2025
+History
+README.md
+	
+Initial commit
+	
+Jan 7, 2025
+test.txt
+	
+addint test file
+	
+Jan 7, 2025
+Repository files navigation
+
+    README
+
+devopslab1
+About
+No description, website, or topics provided.
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+1 watching
+Forks
+0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact
+
+Copied!
